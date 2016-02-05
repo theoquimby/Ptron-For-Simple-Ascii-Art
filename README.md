@@ -7,6 +7,8 @@ The ptron has one mode of learning. All relevent learning output is displayed in
 
 Ptron Class Structure : 
 
+Objective: 
 
+Outcome:
 
 
